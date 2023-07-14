@@ -1,0 +1,168 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "catalog/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/catalog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/catalog.dll": {}
+        }
+      },
+      "CRM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CRM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.dll": {}
+        }
+      },
+      "Membership/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Membership.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Membership.dll": {}
+        }
+      },
+      "OrderProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/OrderProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderProcessing.dll": {}
+        }
+      },
+      "ShoppingCart/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "catalog": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingCart.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "catalog/1.0.0": {
+      "type": "project",
+      "path": "../catalog/catalog.csproj",
+      "msbuildProject": "../catalog/catalog.csproj"
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "path": "../CRM/CRM.csproj",
+      "msbuildProject": "../CRM/CRM.csproj"
+    },
+    "Membership/1.0.0": {
+      "type": "project",
+      "path": "../Membership/Membership.csproj",
+      "msbuildProject": "../Membership/Membership.csproj"
+    },
+    "OrderProcessing/1.0.0": {
+      "type": "project",
+      "path": "../OrderProcessing/OrderProcessing.csproj",
+      "msbuildProject": "../OrderProcessing/OrderProcessing.csproj"
+    },
+    "ShoppingCart/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingCart/ShoppingCart.csproj",
+      "msbuildProject": "../ShoppingCart/ShoppingCart.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CRM >= 1.0.0",
+      "Membership >= 1.0.0",
+      "OrderProcessing >= 1.0.0",
+      "ShoppingCart >= 1.0.0",
+      "catalog >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\TestApp.csproj",
+      "projectName": "TestApp",
+      "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\TestApp.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj": {
+              "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj"
+            },
+            "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj": {
+              "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj"
+            },
+            "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj": {
+              "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj"
+            },
+            "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj": {
+              "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj"
+            },
+            "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj": {
+              "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

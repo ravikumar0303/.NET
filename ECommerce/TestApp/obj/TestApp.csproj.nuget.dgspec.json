@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\TestApp.csproj": {}
+  },
+  "projects": {
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj",
+        "projectName": "catalog",
+        "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj",
+        "projectName": "CRM",
+        "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj",
+        "projectName": "Membership",
+        "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj",
+        "projectName": "OrderProcessing",
+        "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj",
+        "projectName": "ShoppingCart",
+        "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj": {
+                "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\TestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\TestApp.csproj",
+        "projectName": "TestApp",
+        "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\TestApp.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\TestApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj": {
+                "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\catalog\\catalog.csproj"
+              },
+              "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj": {
+                "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\CRM\\CRM.csproj"
+              },
+              "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj": {
+                "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\Membership\\Membership.csproj"
+              },
+              "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj": {
+                "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\OrderProcessing\\OrderProcessing.csproj"
+              },
+              "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj": {
+                "projectPath": "C:\\ravi kumar and vishal\\DoTNet\\ECommerce\\ShoppingCart\\ShoppingCart.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

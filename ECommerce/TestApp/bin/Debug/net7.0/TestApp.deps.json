@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestApp/1.0.0": {
+        "dependencies": {
+          "CRM": "1.0.0",
+          "Membership": "1.0.0",
+          "OrderProcessing": "1.0.0",
+          "ShoppingCart": "1.0.0",
+          "catalog": "1.0.0"
+        },
+        "runtime": {
+          "TestApp.dll": {}
+        }
+      },
+      "catalog/1.0.0": {
+        "runtime": {
+          "catalog.dll": {}
+        }
+      },
+      "CRM/1.0.0": {
+        "runtime": {
+          "CRM.dll": {}
+        }
+      },
+      "Membership/1.0.0": {
+        "runtime": {
+          "Membership.dll": {}
+        }
+      },
+      "OrderProcessing/1.0.0": {
+        "runtime": {
+          "OrderProcessing.dll": {}
+        }
+      },
+      "ShoppingCart/1.0.0": {
+        "dependencies": {
+          "catalog": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "catalog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Membership/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
