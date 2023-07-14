@@ -1,0 +1,15 @@
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.csproj.AssemblyReference.cache
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.AssemblyInfoInputs.cache
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.AssemblyInfo.cs
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_2\CTSDemoApp\bin\Debug\net7.0\CTSDemoApp.exe
+C:\Dotnet\Day_2\CTSDemoApp\bin\Debug\net7.0\CTSDemoApp.deps.json
+C:\Dotnet\Day_2\CTSDemoApp\bin\Debug\net7.0\CTSDemoApp.runtimeconfig.json
+C:\Dotnet\Day_2\CTSDemoApp\bin\Debug\net7.0\CTSDemoApp.dll
+C:\Dotnet\Day_2\CTSDemoApp\bin\Debug\net7.0\CTSDemoApp.pdb
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.dll
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\refint\CTSDemoApp.dll
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.pdb
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\CTSDemoApp.genruntimeconfig.cache
+C:\Dotnet\Day_2\CTSDemoApp\obj\Debug\net7.0\ref\CTSDemoApp.dll
