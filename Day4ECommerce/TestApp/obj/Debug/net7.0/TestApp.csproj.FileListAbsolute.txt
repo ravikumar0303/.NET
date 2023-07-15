@@ -1,0 +1,15 @@
+D:\.NET\Day4ECommerce\TestApp\bin\Debug\net7.0\TestApp.exe
+D:\.NET\Day4ECommerce\TestApp\bin\Debug\net7.0\TestApp.deps.json
+D:\.NET\Day4ECommerce\TestApp\bin\Debug\net7.0\TestApp.runtimeconfig.json
+D:\.NET\Day4ECommerce\TestApp\bin\Debug\net7.0\TestApp.dll
+D:\.NET\Day4ECommerce\TestApp\bin\Debug\net7.0\TestApp.pdb
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.dll
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.pdb
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\TestApp.genruntimeconfig.cache
+D:\.NET\Day4ECommerce\TestApp\obj\Debug\net7.0\ref\TestApp.dll
